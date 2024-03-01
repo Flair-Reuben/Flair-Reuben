@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Hi, I'm Reuben
 <h3 align="center">An apprentice front end web developer from the UK</h3>
 
-- 🌱 I’m currently learning **the many ways of using Github just coding in generall**
+- 🌱 I’m currently learning **the many ways of using Github and just coding in generall**
 
 - 📫 How to reach me **reuben@flairconsultancy.com**
 
